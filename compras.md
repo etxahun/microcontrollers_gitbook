@@ -107,7 +107,7 @@ Enlaces relacionados:
 
 ![](images/70ebe030-5e55-4430-aaf4-984d59d5d578.png)
 
-Enlaces relacionados:
+**Related products:**
 * Kickastarter: 
   * https://www.kickstarter.com/projects/1991736672/redbear-duo-a-small-and-powerful-wi-fi-ble-iot-boa
   * https://www.kickstarter.com/projects/1991736672/redbear-duo-a-small-and-powerful-wi-fi-ble-iot-boa/posts/1477351
