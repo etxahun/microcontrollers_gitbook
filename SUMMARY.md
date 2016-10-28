@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Compras
+* [Compras](compras.md)
 
