@@ -10,7 +10,7 @@
 
 Conexiones:
 
-![](images/esp8266-nodemcu-dev-kit-v3-pins.jpg)
+![](images/5554204c-7cd5-4676-b179-09266270e646.jpg)
 
 **Referencias:**
 * **Página Oficial:** http://www.nodemcu.com/index_en.html
